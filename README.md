@@ -3,7 +3,7 @@
 Welcome to the Production Control Dashboard! This powerful tool is designed to monitor and control production processes 
 directly through a web interface and a programmable logic controller (PLC). Leveraging real-time data from 
 Siemens PLCs, this dashboard is an essential tool for enhancing productivity and efficiency in manufacturing settings.
-![Production Control Dashboard](static/images/control%20production.PNG)
+![Production Control Dashboard](/static/images/control%20production.PNG)
 
 ### Features
 * Real-Time Monitoring: View live production data as it's being recorded by the Siemens PLC.
